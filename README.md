@@ -1,2 +1,2 @@
 # tp9_ej4
-analiza palindromos
+#Analiza palindromos y numeros capicúas.
